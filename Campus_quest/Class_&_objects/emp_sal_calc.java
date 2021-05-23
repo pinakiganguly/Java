@@ -45,7 +45,7 @@ public class Main extends Employee {
 
 //-------------------------------------------------------------------------------------------------------
 
-//Employee.java code file here
+//Employee.java code file
 
 public class Employee {
 
